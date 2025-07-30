@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Martin Luther King Jr. Memorial",
+    "latitude": 38.8893,
+    "longitude": -77.0502,
+    "description": "Memorial dedicated to civil rights leader Martin Luther King Jr."
+  },
+  {
+    "id": 2,
+    "name": "African American Civil War Memorial",
+    "latitude": 38.9164,
+    "longitude": -77.0259,
+    "description": "Monument honoring Black soldiers who fought in the Civil War."
+  },
+  {
+    "id": 3,
+    "name": "Frederick Douglass National Historic Site",
+    "latitude": 38.8606,
+    "longitude": -76.9855,
+    "description": "Home of famed abolitionist Frederick Douglass."
+  }
+]
