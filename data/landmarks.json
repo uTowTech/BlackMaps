@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Harriet Tubman Underground Railroad Visitor Center",
+    "location": "Maryland, USA",
+    "latitude": 38.454,
+    "longitude": -76.444,
+    "description": "Preserves the landscapes and stories where Tubman led over 70 enslaved people to freedom."
+  },
+  {
+    "name": "Cape Coast Castle",
+    "location": "Ghana",
+    "latitude": 5.1036,
+    "longitude": -1.2412,
+    "description": "A former British colonial stronghold and major slave trading post on the West African coast."
+  },
+  {
+    "name": "Elmina Castle",
+    "location": "Ghana",
+    "latitude": 5.0847,
+    "longitude": -1.3509,
+    "description": "One of the oldest European buildings in sub-Saharan Africa, once used in the transatlantic slave trade."
+  },
+  {
+    "name": "House of Slaves - Gorée Island",
+    "location": "Senegal",
+    "latitude": 14.667,
+    "longitude": -17.398,
+    "description": "Museum and memorial to the Atlantic slave trade, home to the 'Door of No Return'."
+  },
+  {
+    "name": "Valongo Wharf",
+    "location": "Rio de Janeiro, Brazil",
+    "latitude": -22.8957,
+    "longitude": -43.1825,
+    "description": "UNESCO World Heritage Site, the most important physical trace of enslaved Africans' arrival in the Americas."
+  },
+  {
+    "name": "Robben Island",
+    "location": "South Africa",
+    "latitude": -33.806,
+    "longitude": 18.366,
+    "description": "Where Nelson Mandela and other anti-apartheid leaders were imprisoned."
+  },
+  {
+    "name": "Kunta Kinteh Island",
+    "location": "Gambia",
+    "latitude": 13.316,
+    "longitude": -16.366,
+    "description": "UNESCO site formerly known as James Island, pivotal in the slave trade and resistance to it."
+  }
+]
